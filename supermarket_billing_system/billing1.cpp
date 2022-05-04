@@ -134,4 +134,4 @@ void shopping::buyer(){
 	
 }
 
-
+//This is a code written from scratch
